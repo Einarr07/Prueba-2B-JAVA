@@ -1,6 +1,6 @@
 # Prueba-2B-JAVA
 
-<h1>Scrip de la base de datos</h1>
+<h3>Scrip de la base de datos</h3>
 
 <hr>
 
